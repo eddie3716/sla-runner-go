@@ -1,1 +1,1 @@
-# go-sla-monitor-runner
+# sla-runner-go
